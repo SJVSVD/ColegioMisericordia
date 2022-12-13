@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958009264224",
+    "project_id": "jardinfirebase",
+    "storage_bucket": "jardinfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958009264224:android:46b6866055fd01f8809b05",
+        "android_client_info": {
+          "package_name": "com.jardin.jardin_cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958009264224-1cklljb6tf7d1k5bsbf6hrlj6ognpnd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5vQADEwRME3-JKHR1wWTLl8ROCzYjGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958009264224-1cklljb6tf7d1k5bsbf6hrlj6ognpnd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

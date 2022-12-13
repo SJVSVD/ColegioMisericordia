@@ -1,0 +1,5 @@
+ PALETA DE COLORES
+    #F98866 Petal es como color piel 
+    #FF420E Poppy es como naranjo
+    #80BD9E Stem verde agua
+    #89DA59 Spring Green
